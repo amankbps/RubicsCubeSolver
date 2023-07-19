@@ -1,0 +1,3 @@
+C:/Users/Aman/CLionProjects/RubicsCubeSolver/cmake-build-debug/CMakeFiles/RubicsCubeSolver.dir
+C:/Users/Aman/CLionProjects/RubicsCubeSolver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aman/CLionProjects/RubicsCubeSolver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
