@@ -1,0 +1,14 @@
+//
+// Created by Aman on 20-07-2023.
+//
+
+#ifndef RUBICSCUBESOLVER_RUBIKSCUBE_H
+#define RUBICSCUBESOLVER_RUBIKSCUBE_H
+
+
+class RubiksCube {
+
+};
+
+
+#endif //RUBICSCUBESOLVER_RUBIKSCUBE_H
